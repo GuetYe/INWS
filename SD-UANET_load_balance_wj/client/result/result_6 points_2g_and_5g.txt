@@ -1,0 +1,237 @@
+3台交换机：
+2024-05-01 23:00:23  2G-mesh网络5G-功率15db-test_dual-band.zip:
+0:17:29
+2024-05-02 09:27:43  2G-mesh网络5G-功率15db-test_dual-band.zip:
+0:14:16
+0:14:0
+0:14:7
+2024-05-02 10:26:35  2G-mesh网络5G-功率15db-test_dual-band.zip:
+0:14:51
+0:14:52
+0:14:41
+
+2024-05-02 15:19:22  2G-mesh网络5G-功率15db-test_dual-band.zip:
+0:16:8
+0:16:45
+0:17:32
+0:16:0
+
+
+
+
+2024-05-02 22:03:53  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:10:34
+2024-05-02 22:30:58  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:10:12
+2024-05-03 10:38:37  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-05-03 10:51:49  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-05-03 10:55:00  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:11:56
+0:12:9
+0:12:23
+0:12:17
+0:12:17
+0:12:28
+2024-05-03 12:28:55  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:12:27
+0:12:27
+0:12:16
+0:12:23
+0:12:22
+0:12:33
+0:12:40
+0:13:4
+0:13:14
+0:13:20
+
+
+
+
+6台交换机：
+2024-05-05 13:10:36  2G-mesh网络5G-功率15db-test_2.4G.zip:
+2024-05-05 14:27:24  5G-mesh网络5G-功率15db-test_2.4G.zip:
+2024-05-05 14:44:15  5G-mesh网络5G-功率15db-test_2.4G.zip:
+0:6:45
+2024-05-05 14:55:53  5G-mesh网络5G-功率15db-test_2.4G.zip:
+0:6:44
+
+
+2024-05-05 16:59:32  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:14:4  14.07
+2024-05-05 17:58:16  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:13:6  13.10
+2024-05-05 18:14:08  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-05-05 18:14:56  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-05-05 19:43:39  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-05-05 19:44:21  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:14:22 14.37
+0:13:44 13.73
+2024-05-06 10:10:47  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:14:20 14.33
+0:13:49 13.82
+0:14:20 14.33
+0:13:59 13.98
+0:14:16 14.27
+0:14:36 14.60
+
+
+2024-05-06 16:25:32  2G-mesh网络5G-功率15db-test_dual-band.zip:
+0:30:44 30.73
+0:27:19 27.32
+0:27:48 27.80
+0:30:15 30.25
+0:31:17 31.28
+0:33:24 33.40
+0:30:40 30.67
+0:28:33 28.55
+0:28:51 28.85
+0:29:33 29.05
+2024-06-02 13:18:59  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-06-02 13:20:01  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-06-02 13:36:05  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-06-02 13:37:43  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:25:11  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:25:28  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:31:04  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:46
+0:0:46
+0:0:46
+2024-12-14 21:48:45  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:49:19  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:49:46  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:50:33  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:51:41  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:52:12  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:53:19  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:53:56  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:55:11  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:57:23  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:58:06  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 21:58:35  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:01:20  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:04:27  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:46
+0:0:46
+2024-12-14 22:06:47  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:07:12  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:07:42  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:07:57  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:08:24  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:09:07  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:09:38  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:11:42  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:17:12  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:17:44  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:20:21  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:22:47  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:23:24  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:26:00  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:27:29  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:28:04  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:28:58  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:30:28  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:31:20  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:31:26  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:31:57  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:33:03  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:33:31  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:39:36  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:2:55
+2024-12-14 22:43:05  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:43:32  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:44:35  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:47:00  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:48:07  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:55:00  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:55:25  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:55:52  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:56:39  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:57:05  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:57:22  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:57:26  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:57:43  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:57:47  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 22:58:19  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:04:10  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:05:47  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:06:11  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:06:38  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:07:02  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:07:39  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:08:24  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:08:50  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:10:23  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:10:49  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:11:15  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:11:54  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:12:52  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:13:18  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:13:41  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:14:53  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:15:20  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:16:53  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:17:16  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:20:46  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:24:17  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:24:50  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-14 23:25:47  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-15 09:05:07  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:46
+0:0:45
+2024-12-15 09:07:07  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:1:12
+2024-12-26 10:31:10  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 10:38:13  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 10:38:44  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 10:40:02  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 10:40:44  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:05:43  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:55
+2024-12-26 11:07:28  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:10:43  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:11:20  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:12:35  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:12:54  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:15:10  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:16:07  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:17:33  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:46
+2024-12-26 11:19:01  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:23:22  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 11:42:18  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:25
+0:0:9
+0:0:25
+2024-12-26 11:43:38  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:1:54
+0:0:46
+2:59:6
+2024-12-26 14:54:34  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 14:58:04  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 15:04:55  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 15:08:48  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 15:11:55  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2024-12-26 15:13:19  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:2:19
+2025-03-05 16:18:26  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2025-03-05 16:19:45  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2025-03-05 16:33:40  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2025-03-05 16:35:35  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:43
+0:1:15
+0:2:12
+0:2:18
+2025-03-05 16:44:23  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:48
+0:0:48
+0:0:48
+2025-03-05 17:01:39  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2025-03-05 17:03:59  5G-mesh网络5G-功率15db-test_dual-band.zip:
+2025-03-05 17:06:13  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:48
+0:0:48
+2025-03-05 17:11:56  5G-mesh网络5G-功率15db-test_dual-band.zip:
+0:0:34
+0:0:32
+0:0:32
+2025-03-05 17:13:51  5G-mesh网络5G-功率15db-test_dual-band.zip:

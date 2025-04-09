@@ -1,0 +1,3 @@
+test_strorage_node_ordinary.svg
+45633
+{}

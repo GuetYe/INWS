@@ -1,0 +1,59 @@
+i-53" x="150"/>
+      <use xlink:href="#SimHei-2d" x="200"/>
+      <use xlink:href="#SimHei-32" x="250"/>
+      <use xlink:href="#SimHei-2e" x="300"/>
+      <use xlink:href="#SimHei-34" x="350"/>
+      <use xlink:href="#SimHei-47" x="400"/>
+      <use xlink:href="#SimHei-2d" x="450"/>
+      <use xlink:href="#SimHei-61" x="500"/>
+      <use xlink:href="#SimHei-64" x="550"/>
+      <use xlink:href="#SimHei-64" x="600"/>
+      <use xlink:href="#SimHei-20" x="650"/>
+      <use xlink:href="#SimHei-6c" x="700"/>
+      <use xlink:href="#SimHei-6f" x="750"/>
+      <use xlink:href="#SimHei-61" x="800"/>
+      <use xlink:href="#SimHei-64" x="850"/>
+     </g>
+    </g>
+    <g id="line2d_27">
+     <path d="M 282.72 93.722 
+L 292.72 93.722 
+L 302.72 93.722 
+" style="fill: none; stroke: #bfbf00; stroke-width: 1.5; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#mf0e23cda72" x="292.72" y="93.722" style="fill: #bfbf00; stroke: #bfbf00"/>
+     </g>
+    </g>
+    <g id="text_25">
+     <!-- MEDWS-2.4G-add load -->
+     <g transform="translate(310.72 97.222)scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-45" x="50"/>
+      <use xlink:href="#SimHei-44" x="100"/>
+      <use xlink:href="#SimHei-57" x="150"/>
+      <use xlink:href="#SimHei-53" x="200"/>
+      <use xlink:href="#SimHei-2d" x="250"/>
+      <use xlink:href="#SimHei-32" x="300"/>
+      <use xlink:href="#SimHei-2e" x="350"/>
+      <use xlink:href="#SimHei-34" x="400"/>
+      <use xlink:href="#SimHei-47" x="450"/>
+      <use xlink:href="#SimHei-2d" x="500"/>
+      <use xlink:href="#SimHei-61" x="550"/>
+      <use xlink:href="#SimHei-64" x="600"/>
+      <use xlink:href="#SimHei-64" x="650"/>
+      <use xlink:href="#SimHei-20" x="700"/>
+      <use xlink:href="#SimHei-6c" x="750"/>
+      <use xlink:href="#SimHei-6f" x="800"/>
+      <use xlink:href="#SimHei-61" x="850"/>
+      <use xlink:href="#SimHei-64" x="900"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa1c3144e29">
+   <rect x="57.6" y="41.472" width="357.12" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>
